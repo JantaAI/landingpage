@@ -47,7 +47,6 @@ export default function App() {
             <p className="mb-0">&nbsp;</p>
             <p className="mb-0">&nbsp;</p>
             <p className="mb-0">&nbsp;</p>
-            <p className="mb-0">&nbsp;</p>
             <p>inquiries for hardcore week team [at] janta.ai</p>
           </div>
         </div>
