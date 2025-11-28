@@ -25,7 +25,7 @@ export default function App() {
           {/* Text Content */}
           <div className="flex flex-col font-['Inconsolata',sans-serif] font-normal justify-center leading-[0.9] text-[#2f2f2f] tracking-[-0.6px]
                           text-[16px] pt-20 pr-2
-                          md:absolute md:left-[58px] md:top-[57%] md:translate-y-[-50%] md:w-[622px] md:text-[20px] md:pt-0 md:pr-0"
+                          md:absolute md:left-[58px] md:top-[62%] md:translate-y-[-50%] md:w-[622px] md:text-[20px] md:pt-0 md:pr-0"
                style={{ fontVariationSettings: "'wdth' 100" }}>
             <p className="mb-0">Hello World,</p>
             <p className="mb-0">&nbsp;</p>
