@@ -2,17 +2,17 @@ import imgJantaBlackT from "figma:asset/ef2907cd3a5f4b9c92fd7838905f10fd4103cec9
 
 export default function App() {
   return (
-    <div className="bg-[#fffdf8] min-h-screen w-full flex items-center justify-center overflow-hidden p-4">
+    <div className="bg-[#fffdf8] min-h-screen w-full flex items-center justify-center overflow-hidden">
       {/* Centered container */}
-      <div className="relative w-full max-w-[1200px] md:h-[812px] flex items-center justify-center">
+      <div className="relative w-full max-w-[1200px] md:h-[812px] flex items-center justify-center p-6 md:p-4 pt-20 md:pt-4">
         
         {/* White Card */}
         <div className="bg-white rounded-[19px] shadow-[0px_0px_18.6px_-1px_rgba(0,0,0,0.25)]
                         w-full max-w-[540px] h-auto overflow-auto p-6 relative
                         md:w-[737px] md:h-[514px] md:max-w-none md:p-0 md:overflow-visible">
           
-          {/* Logo - Top-right of card */}
-          <div className="absolute size-[60px] -top-10 -right-2
+          {/* Logo */}
+          <div className="absolute size-[60px] -top-16 right-4
                           md:size-[75px] md:top-0 md:right-[-37px]"
                data-name="JANTA BLACK T">
             <img 
@@ -21,7 +21,7 @@ export default function App() {
               src={imgJantaBlackT} 
             />
           </div>
-
+          
           {/* Text Content */}
           <div className="flex flex-col font-['Inconsolata',sans-serif] font-normal justify-center leading-[0.9] text-[#2f2f2f] tracking-[-0.6px]
                           text-[16px] pt-12 pr-2 pb-4
