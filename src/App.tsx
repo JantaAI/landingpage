@@ -2,17 +2,17 @@ import imgJantaBlackT from "figma:asset/ef2907cd3a5f4b9c92fd7838905f10fd4103cec9
 
 export default function App() {
   return (
-    <div className="bg-[#fffdf8] min-h-screen w-full flex items-center justify-center overflow-hidden p-6">
+    <div className="bg-[#fffdf8] min-h-screen w-full flex items-center justify-center overflow-hidden p-4">
       {/* Centered container */}
       <div className="relative w-full max-w-[1200px] md:h-[812px] flex items-center justify-center">
         
         {/* White Card */}
         <div className="bg-white rounded-[19px] shadow-[0px_0px_18.6px_-1px_rgba(0,0,0,0.25)]
-                        w-full max-w-[500px] h-auto overflow-auto p-6 relative
+                        w-full max-w-[540px] h-auto overflow-auto p-6 relative
                         md:w-[737px] md:h-[514px] md:max-w-none md:p-0 md:overflow-visible">
           
           {/* Logo - Top-right of card */}
-          <div className="absolute size-[60px] -top-2 -right-2
+          <div className="absolute size-[60px] -top-10 -right-2
                           md:size-[75px] md:top-0 md:right-[-37px]"
                data-name="JANTA BLACK T">
             <img 
@@ -24,7 +24,7 @@ export default function App() {
 
           {/* Text Content */}
           <div className="flex flex-col font-['Inconsolata',sans-serif] font-normal justify-center leading-[0.9] text-[#2f2f2f] tracking-[-0.6px]
-                          text-[16px] pt-16 pr-2 pb-4
+                          text-[16px] pt-12 pr-2 pb-4
                           md:absolute md:left-[58px] md:top-[259px] md:translate-y-[-50%] md:w-[622px] md:text-[20px] md:pt-0 md:pr-0 md:pb-0"
                style={{ fontVariationSettings: "'wdth' 100" }}>
             <p className="mb-0">Hello World,</p>
@@ -39,9 +39,7 @@ export default function App() {
             <p className="mb-0">&nbsp;</p>
             <p className="mb-0">&nbsp;</p>
             <p className="mb-0">&nbsp;</p>
-            <p className="mb-0">&nbsp;</p>
             <p className="mb-0">Currently we solve the root causes of why everybody hates his health insurance.</p>
-            <p className="mb-0">&nbsp;</p>
             <p className="mb-0">&nbsp;</p>
             <p className="mb-0">&nbsp;</p>
             <p className="mb-0">&nbsp;</p>
