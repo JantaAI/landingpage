@@ -30,45 +30,25 @@ export default function App() {
             <p className="mb-0">Hello World,</p>
             <p className="mb-0">&nbsp;</p>
             <p className="mb-0">&nbsp;</p>
-            <p className="mb-0">
-              <span className="font-['Inconsolata',sans-serif] font-bold text-[#2f2f2f]" style={{ fontVariationSettings: "'wdth' 100" }}>
-                In the past year,
-              </span>
-              <span>{` we rebuilt health insurance by designing new actuarial models and creating AI that predicts claim risk and monthly premiums.`}</span>
-            </p>
             <p className="mb-0">&nbsp;</p>
-            <p className="mb-0">&nbsp;</p>
-            <p className="mb-0">
-              <span className="font-['Inconsolata',sans-serif] font-bold text-[#2f2f2f]" style={{ fontVariationSettings: "'wdth' 100" }}>
-                In the next year,
-              </span>
-              <span>{` we'll launch the first consumer health-platform that gives people transparent pricing, no deductibles, no co-pays and full-body coverage.`}</span>
-            </p>
-            <p className="mb-0">&nbsp;</p>
-            <p className="mb-0">&nbsp;</p>
-            <p className="mb-0">
-              <span>
-                Our task is to break the constraints bad systems place on humans.
-                <br aria-hidden="true" />
-                {`To make health feel like `}
-              </span>
-              <span className="font-['Inconsolata',sans-serif] font-bold text-[#2f2f2f]" style={{ fontVariationSettings: "'wdth' 100" }}>
-                magic again.
-              </span>
-            </p>
-            <p className="mb-0">&nbsp;</p>
-            <p className="mb-0">&nbsp;</p>
-            <p className="mb-0">
-              <span>{`This is `}</span>
-              <span className="font-['Inconsolata',sans-serif] font-bold text-[#2f2f2f]" style={{ fontVariationSettings: "'wdth' 100" }}>
-                the mission
-              </span>
-              <span>{` of our lives.`}</span>
-            </p>
+            <p className="mb-0">this company is about longterm, very longterm success...</p>
             <p className="mb-0">&nbsp;</p>
             <p className="mb-0">&nbsp;</p>
             <p className="mb-0">&nbsp;</p>
-            <p>hiring inquiries: team [at] janta.ai</p>
+            <p className="mb-0">We try to fix things that are wrong in the world with technology that is new.</p>
+            <p className="mb-0">&nbsp;</p>
+            <p className="mb-0">&nbsp;</p>
+            <p className="mb-0">&nbsp;</p>
+            <p className="mb-0">&nbsp;</p>
+            <p className="mb-0">&nbsp;</p>
+            <p className="mb-0">Currently we solve the root causes of why everybody hates his health insurance.</p>
+            <p className="mb-0">&nbsp;</p>
+            <p className="mb-0">&nbsp;</p>
+            <p className="mb-0">&nbsp;</p>
+            <p className="mb-0">&nbsp;</p>
+            <p className="mb-0">&nbsp;</p>
+            <p className="mb-0">&nbsp;</p>
+            <p>inquiries for hardcore week team [at] janta.ai</p>
           </div>
         </div>
       </div>
