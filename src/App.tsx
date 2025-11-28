@@ -40,9 +40,7 @@ export default function App() {
             <p className="mb-0">&nbsp;</p>
             <p className="mb-0">&nbsp;</p>
             <p className="mb-0">&nbsp;</p>
-            <p className="mb-0">&nbsp;</p>
             <p className="mb-0">Currently we solve the root causes of why everybody hates his health insurance.</p>
-            <p className="mb-0">&nbsp;</p>
             <p className="mb-0">&nbsp;</p>
             <p className="mb-0">&nbsp;</p>
             <p className="mb-0">&nbsp;</p>
@@ -53,4 +51,5 @@ export default function App() {
       </div>
     </div>
   );
+}
 }
