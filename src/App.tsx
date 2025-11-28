@@ -27,23 +27,10 @@ export default function App() {
                           text-[16px] pt-20 pr-2
                           md:w-[680px] md:pl-[58px] md:text-[20px] md:pt-0 md:pr-0"
                style={{ fontVariationSettings: "'wdth' 100" }}>
-            <p className="mb-0">Hello World,</p>
-            <p className="mb-0">&nbsp;</p>
-            <p className="mb-0">&nbsp;</p>
-            <p className="mb-0">this company is about longterm, very longterm success...</p>
-            <p className="mb-0">&nbsp;</p>
-            <p className="mb-0">&nbsp;</p>
-            <p className="mb-0">We try to fix things that are wrong in the world with technology that is new.</p>
-            <p className="mb-0">&nbsp;</p>
-            <p className="mb-0">&nbsp;</p>
-            <p className="mb-0">&nbsp;</p>
-            <p className="mb-0">&nbsp;</p>
-            <p className="mb-0">Currently we solve the root causes of why everybody hates his health insurance.</p>
-            <p className="mb-0">&nbsp;</p>
-            <p className="mb-0">&nbsp;</p>
-            <p className="mb-0">&nbsp;</p>
-            <p className="mb-0">&nbsp;</p>
-            <p className="mb-0">&nbsp;</p>
+            <p className="mb-8">Hello World,</p>
+            <p className="mb-8">this company is about longterm, very longterm success...</p>
+            <p className="mb-16">We try to fix things that are wrong in the world with technology that is new.</p>
+            <p className="mb-24">Currently we solve the root causes of why everybody hates his health insurance.</p>
             <p>inquiries for hardcore week team [at] janta.ai</p>
           </div>
         </div>
