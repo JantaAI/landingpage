@@ -2,18 +2,18 @@ import imgJantaBlackT from "figma:asset/ef2907cd3a5f4b9c92fd7838905f10fd4103cec9
 
 export default function App() {
   return (
-    <div className="bg-[#fffdf8] h-screen w-full flex items-center justify-center overflow-hidden">
-      {/* Desktop: Fixed positioning | Mobile: Responsive */}
-      <div className="relative w-full h-auto max-w-[1280px] mx-auto flex items-center justify-center p-4 md:p-0">
+    <div className="bg-[#fffdf8] min-h-screen w-full flex items-center justify-center overflow-hidden">
+      {/* Centered container */}
+      <div className="relative w-full max-w-[1200px] h-[812px] flex items-center justify-center px-4">
         
         {/* White Card */}
         <div className="bg-white rounded-[19px] shadow-[0px_0px_18.6px_-1px_rgba(0,0,0,0.25)]
-                        w-full max-w-[500px] mx-auto p-6 relative
-                        md:w-[737px] md:h-[600px] md:max-w-none md:p-0 md:mx-auto">
+                        w-full max-w-[500px] p-6 relative
+                        md:w-[737px] md:h-[514px] md:max-w-none md:p-0">
           
-          {/* Logo - Mobile: Top-right of card | Desktop: Overlapping card edge */}
+          {/* Logo - Top-right of card */}
           <div className="absolute size-[60px] top-6 right-6
-                          md:size-[75px] md:left-[631px] md:top-0 md:right-auto"
+                          md:size-[75px] md:top-0 md:right-[-37px]"
                data-name="JANTA BLACK T">
             <img 
               alt="" 
