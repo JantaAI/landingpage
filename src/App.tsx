@@ -9,7 +9,7 @@ export default function App() {
         {/* White Card */}
         <div className="bg-white rounded-[19px] shadow-[0px_0px_18.6px_-1px_rgba(0,0,0,0.25)]
                         w-full max-w-[500px] p-6 relative
-                        md:w-[737px] md:h-[514px] md:max-w-none md:p-0">
+                        md:w-[737px] md:h-[514px] md:max-w-none md:p-0 md:flex md:items-center">
           
           {/* Logo - Top-right of card */}
           <div className="absolute size-[60px] top-6 right-6
@@ -25,7 +25,7 @@ export default function App() {
           {/* Text Content */}
           <div className="flex flex-col font-['Inconsolata',sans-serif] font-normal justify-center leading-[0.9] text-[#2f2f2f] tracking-[-0.6px]
                           text-[16px] pt-20 pr-2
-                          md:absolute md:left-[58px] md:top-[50%] md:translate-y-[-50%] md:w-[622px] md:text-[20px] md:pt-0 md:pr-0"
+                          md:w-[680px] md:pl-[58px] md:text-[20px] md:pt-0 md:pr-0"
                style={{ fontVariationSettings: "'wdth' 100" }}>
             <p className="mb-0">Hello World,</p>
             <p className="mb-0">&nbsp;</p>
